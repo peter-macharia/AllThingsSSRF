@@ -58,6 +58,10 @@ Trending Programming Languages!](https://www.blackhat.com/docs/us-17/thursday/us
 
 #### Writeups
 
+- [@albinowax Cracking the lens: targeting HTTP's hidden attack-surface](https://portswigger.net/research/cracking-the-lens-targeting-https-hidden-attack-surface) [NEW Credit to  @atul_hax]
+
+- [NoGe: Serer Side Request Forgery (SSRF) Testing](https://medium.com/bugbountywriteup/server-side-request-forgery-ssrf-testing-b9dfe57cca35)
+
 - [@leonmugen: SSRF Reading Local Files from DownNotifier server](https://www.openbugbounty.org/blog/leonmugen/ssrf-reading-local-files-from-downnotifier-server/)
 
 - [Fireshell Security Team: SunshineCTF - Search Box Writeup](https://fireshellsecurity.team/sunshinectf-search-box/)
@@ -172,7 +176,7 @@ Trending Programming Languages!](https://www.blackhat.com/docs/us-17/thursday/us
 
 - [643622 SSRF In Get Video Contents](https://hackerone.com/reports/643622)
 
-- [398641 D0nut: SSRF on duckduckgo.com/iu/](https://hackerone.com/reports/398641https://hackerone.com/reports/398641)
+- [398641 D0nut: SSRF on duckduckgo.com/iu/](https://hackerone.com/reports/398641)
 
 - [398799 Jobert Abma (jobert): Unauthenticated blind SSRF in OAuth Jira authorization controller](https://hackerone.com/reports/398799)
 
